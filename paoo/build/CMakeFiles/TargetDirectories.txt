@@ -1,0 +1,3 @@
+C:/Users/andi_/OneDrive/Documents/paoo/build/CMakeFiles/paoo.dir
+C:/Users/andi_/OneDrive/Documents/paoo/build/CMakeFiles/edit_cache.dir
+C:/Users/andi_/OneDrive/Documents/paoo/build/CMakeFiles/rebuild_cache.dir

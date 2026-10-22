@@ -1,0 +1,8 @@
+[
+{
+  "directory": "C:/Users/andi_/OneDrive/Documents/paoo/build",
+  "command": "C:\\MinGW\\bin\\c++.exe   -g -std=gnu++1z -o CMakeFiles\\paoo.dir\\main.cpp.obj -c C:\\Users\\andi_\\OneDrive\\Documents\\paoo\\main.cpp",
+  "file": "C:/Users/andi_/OneDrive/Documents/paoo/main.cpp",
+  "output": "CMakeFiles/paoo.dir/main.cpp.obj"
+}
+]
